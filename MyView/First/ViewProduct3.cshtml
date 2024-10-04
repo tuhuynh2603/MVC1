@@ -1,0 +1,18 @@
+@using MVC1.Models
+@{
+    var product = ViewBag.product as ProductModel;
+}
+
+<div class="card bg-primary text-white" style="background: red; margin:30px; padding: 30px;">
+    <h1 class="card-header">Bag. @product.Name</h1>
+    <div class="card-body">
+        <p class="card-text">
+          Price: @product.Price
+        </p>
+    </div>
+
+
+</div>
+
+    using MVC1.Models;
+#line default

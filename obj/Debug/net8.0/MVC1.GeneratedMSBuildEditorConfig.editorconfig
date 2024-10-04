@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC1
+build_property.RootNamespace = MVC1
+build_property.ProjectDir = C:\Users\huynh\source\AppMvc\MVC1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\huynh\source\AppMvc\MVC1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/MyView/First/View3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlWaWV3XEZpcnN0XFZpZXczLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/MyView/First/ViewProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlWaWV3XEZpcnN0XFZpZXdQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/MyView/First/ViewProduct2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlWaWV3XEZpcnN0XFZpZXdQcm9kdWN0Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/MyView/First/ViewProduct3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlWaWV3XEZpcnN0XFZpZXdQcm9kdWN0My5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/MyView/View1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlWaWV3XFZpZXcxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/Pages/Razor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/Views/First/HelloView3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlyc3RcSGVsbG9WaWV3My5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/Views/First/View2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlyc3RcVmlldzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/Views/Shared/_AlertMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BbGVydE1lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/huynh/source/AppMvc/MVC1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q8ho6xwgpw
