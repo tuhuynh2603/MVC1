@@ -5,6 +5,7 @@ using MVC1.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddSingleton(typeof(ProductService), typeof(ProductService));
+builder.Services.AddSingleton(typeof(PlanetService), typeof(PlanetService));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -39,6 +40,16 @@ app.UseRouting();
 
 app.UseAuthentication();
 app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
+app.MapAreaControllerRoute(
+    name: "product",
+    pattern: "{controller}/{action=Index}/{id?}",
+    areaName:"ProductManage");
 
 app.MapControllerRoute(
     name: "default",

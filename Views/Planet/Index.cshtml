@@ -1,0 +1,13 @@
+@inject MVC1.Services.PlanetService planetService
+<h1>Cacs hanh tinh</h1>
+
+<div class="list-group">
+    @foreach (var planet in planetService)
+    {
+        <a class="list-group-item list-group-item-action" asp-action="PlanetInfor" asp-route-id ="@planet.Id">
+            @planet.Name
+        </a>
+    }
+
+    <label>@Url.RouteUrl("route1")</label>
+</div>

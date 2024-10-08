@@ -245,6 +245,42 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\huynh\\source\\AppMvc\\MVC1\\wwwroot\\planet\\Mercury.jpg",
+      "PackagePath": "staticwebassets\\planet\\Mercury.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huynh\\source\\AppMvc\\MVC1\\wwwroot\\planet\\Venus.jpg",
+      "PackagePath": "staticwebassets\\planet\\Venus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huynh\\source\\AppMvc\\MVC1\\wwwroot\\planet\\Venus1.jpg",
+      "PackagePath": "staticwebassets\\planet\\Venus1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huynh\\source\\AppMvc\\MVC1\\wwwroot\\planet\\Venus2.jpg",
+      "PackagePath": "staticwebassets\\planet\\Venus2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huynh\\source\\AppMvc\\MVC1\\wwwroot\\planet\\Venus3.jpg",
+      "PackagePath": "staticwebassets\\planet\\Venus3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huynh\\source\\AppMvc\\MVC1\\wwwroot\\planet\\Venus4.jpg",
+      "PackagePath": "staticwebassets\\planet\\Venus4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huynh\\source\\AppMvc\\MVC1\\wwwroot\\planet\\Venus5.jpg",
+      "PackagePath": "staticwebassets\\planet\\Venus5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huynh\\source\\AppMvc\\MVC1\\wwwroot\\planet\\Venus6.jpg",
+      "PackagePath": "staticwebassets\\planet\\Venus6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huynh\\source\\AppMvc\\MVC1\\wwwroot\\planet\\Venus7.jpg",
+      "PackagePath": "staticwebassets\\planet\\Venus7.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC1.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

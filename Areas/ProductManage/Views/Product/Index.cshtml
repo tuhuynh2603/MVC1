@@ -1,0 +1,24 @@
+@using MVC1.Models
+@model List<ProductModel>
+<h1>Product</h1>
+
+<div class="list-group">
+    @foreach (var service in @Model)
+    {
+        <li>
+            @service.Name
+        </li>
+    }
+</div>
+
+
+<p>
+    @Url.ActionLink()
+</p>
+<p>
+    @Url.Action()
+</p>
+
+<p>
+    @Url.Action("PlanetInfor", "Planet", new {id = 3})
+</p>
